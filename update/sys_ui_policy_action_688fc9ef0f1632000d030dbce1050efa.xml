@@ -17,7 +17,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-29 05:12:43</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <ui_policy display_value="NeedIt show or hide Other field">d64f89ef0f1632000d030dbce1050e2f</ui_policy>
+        <ui_policy display_value="NeedIt show or hide other field">d64f89ef0f1632000d030dbce1050e2f</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>
